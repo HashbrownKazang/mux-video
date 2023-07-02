@@ -1,4 +1,8 @@
 {
+  "name": "sppunnt-video",
+  "license": "MIT",
+  "version": "v0.1.0",
+  "author": "HashbrownKazang",
   "private": true,
   "scripts": {
     "dev": "next dev",
